@@ -1,4 +1,4 @@
-![Group 33](https://github.com/user-attachments/assets/edd45805-61b3-44e6-8baf-e76aac532295)
+<img width="1086" height="343" alt="Logo" src="https://github.com/user-attachments/assets/6f306b8b-3f93-4c45-95b5-1d99e3bbb08b" />
 
 
 I created this project with the purpose of studying objects in  JavaScript. 
